@@ -1,0 +1,43 @@
+{
+    "user_info": {
+        "username": "demo",
+        "password": "demo",
+        "status": "Active",
+        "exp_date": "2546232000",
+        "is_trial": "0",
+        "active_cons": "1",
+        "created_at": "1683667200",
+        "max_connections": "1"
+    },
+    "server_info": {
+        "url": "http://example.com",
+        "port": "80",
+        "https_port": "443",
+        "server_protocol": "http",
+        "rtmp_port": "1935",
+        "timezone": "Europe/Tirane",
+        "timestamp_now": 1715790000
+    },
+    "available_channels": [
+        {
+            "name": "7News Albania",
+            "stream_type": "live",
+            "stream_id": 1001,
+            "stream_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/7News_logo.svg/512px-7News_logo.svg.png",
+            "epg_channel_id": "7news.al",
+            "added": "1690000000",
+            "category_id": 1,
+            "custom_sid": "",
+            "tv_archive": 0,
+            "direct_source": "",
+            "num": 1
+        }
+    ],
+    "categories": [
+        {
+            "category_id": 1,
+            "category_name": "Albanian Channels",
+            "parent_id": 0
+        }
+    ]
+}
